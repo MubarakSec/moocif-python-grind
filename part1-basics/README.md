@@ -62,8 +62,8 @@ This section contains my solutions for **Part 1** of the [Programming with Pytho
 
 ## ▶️ How to Run
 
-Make sure you have Python 3 installed.
+Make sure you have Python installed.
 
 ```bash
 cd part1-basics
-python3 <exercise_file>.py
+python <exercise_file>.py
