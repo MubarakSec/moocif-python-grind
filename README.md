@@ -16,13 +16,13 @@ I’m not here to copy-paste. I’m here to **understand, break, rebuild** — t
 
 ## 📚 Progress Tracker
 
-| Part | Topic                     | Status     |
-|------|---------------------------|------------|
-| 1    | Basics                    | ✅ Done     |
-| 2    | Functions                 | ✅ Done     |
+| Part | Topic                     | Status  -   |
+|------|---------------------------|-------------|
+| 1    | Getting Started           | ✅ Done     |
+| 2    | Conditionals              | ✅ Done     |
 | 3    | Loops                     | ✅ Done     |
-| 4    | Strings                   | ✅ Done     |
-| 5    | Lists & Dictionaries      | ✅ Done     |
+| 4    | Functions                 | ✅ Done     |
+| 5    | Lists                     | ✅ Done     |
 | 6    | Files & Exceptions        | 🚧 In Progress |
 | 7    | Advanced Topics           | 🔜 Soon     |
 
