@@ -52,7 +52,6 @@ This section dives deeper into Python syntax and control structures. We refine o
 6. **The next leap year** – Loop until a future leap year is found.  
 7. **Story** – Interactive loop that builds a story with inputs.  
 8. **Working with numbers** – Loop to do math operations based on inputs.  
-9. **Quiz: Feedback, part 2** – Test your understanding with conceptual questions.
 
 ---
 
