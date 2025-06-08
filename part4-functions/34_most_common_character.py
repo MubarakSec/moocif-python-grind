@@ -1,4 +1,4 @@
-# Write your solution here
+# The most common character in a string
 def most_common_character(s: str) -> str:
     # Count occurrences of each character
     counts = {}

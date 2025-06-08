@@ -1,12 +1,10 @@
-# Copy here code of line function from previous exercise and use it in your solution
-# You can test your function by calling it within the following block
+# It prints as you want
 def line(number, char):
     if char == "":
         char = "*"
     print(number * char[0])
 
 def shape(size1,char1,size2,char2):
-    # You should call function line here with proper parameters
     i = 1
     j = size2
     while i <= size1:
@@ -16,4 +14,8 @@ def shape(size1,char1,size2,char2):
         line(size1,char2)
         j -=1
 if __name__ == "__main__":
-    shape(5, "x", 2, "o")
+    numbers=int(input("Enter a number: "))
+    building_block=input("with what to build it: ")
+    numbers_base=int(input("Number of fundumantions: "))
+    base_block=input("base block: ")
+    shape(numbers, building_block, numbers_base, base_block)

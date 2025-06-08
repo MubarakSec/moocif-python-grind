@@ -1,4 +1,4 @@
-# Write your solution here
+# print the numbers that are divisable by 2
 def even_numbers(lists):
     return [x for x in lists if x%2 == 0]
 

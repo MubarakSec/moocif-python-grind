@@ -1,4 +1,4 @@
-# Write your solution here
+# No Uppercharaters words
 def no_shouting(a):
     no_upper=[]
     for up in a:

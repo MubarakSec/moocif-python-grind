@@ -1,4 +1,4 @@
-# Write your solution here
+# two lists and sum of it's equivalent in the other list
 def list_sum(a,b):
     return [y+x for y,x in zip(a,b)]
 if __name__ == "__main__":

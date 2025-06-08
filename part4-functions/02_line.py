@@ -1,5 +1,4 @@
-# Write your solution here
-# You can test your function by calling it within the following block
+# How does a def function work
 def line(number, char):
     if char == "":
         char = "*"

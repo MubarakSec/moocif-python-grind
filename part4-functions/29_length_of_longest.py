@@ -1,4 +1,4 @@
-# Write your solution here
+# Gives the longest string in the list
 def length_of_longest(my_list):
     return len(max(my_list, key=len )) if my_list else ""
 if __name__ == "__main__":

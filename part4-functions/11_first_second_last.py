@@ -1,5 +1,4 @@
-# Write your solution here
-# You can test your function by calling it within the following block
+# It return the first,second,and last word
 def first_word(x):
     i=0
     word = ""

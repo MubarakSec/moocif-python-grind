@@ -1,4 +1,4 @@
-# Write your solution here
+# reverse everting in the list
 def everything_reversed(a):
     hello=[]
     for item in a:

@@ -1,5 +1,4 @@
-# Write your solution here
-# You can test your function by calling it within the following block
+# Just a spruce
 
 def spruce(hight):
     print("a spruce!")

@@ -1,4 +1,4 @@
-# Write your solution here
+# Teaching how to add to a list
 my_list = []
 items=int(input("how many inputs: "))
 

@@ -1,4 +1,4 @@
-# Write your solution here
+# Delete the vowles
 def no_vowels(a):
     vowles="aoeiu"
     string = ""

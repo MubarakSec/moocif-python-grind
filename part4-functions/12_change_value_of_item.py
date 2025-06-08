@@ -1,4 +1,4 @@
-# Write your solution here
+# Intro to list
 my_list=[1,2,3,4,5]
 while True:
     index=int(input("Index: "))

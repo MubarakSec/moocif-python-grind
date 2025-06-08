@@ -1,4 +1,4 @@
-# Write your solution here
+# shorten the float number
 def formatted(a):
     new_list=[]
     for i in a:

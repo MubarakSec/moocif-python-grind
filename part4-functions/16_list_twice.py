@@ -1,7 +1,7 @@
-# Write your solution here
+# Print two list ordered and the original
 my_list=[]
 while True:
-    word=new_value=int(input("new value "))
+    word=new_value=int(input("new value or 0 to exit "))
     
     if new_value == 0:
         print("Bye!")

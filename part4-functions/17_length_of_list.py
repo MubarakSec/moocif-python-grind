@@ -1,5 +1,4 @@
-# Write your solution here
-# You can test your function by calling it within the following block
+# Gives the length of the list 
 def length(x):
     return len(x)
 if __name__ == "__main__":

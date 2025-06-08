@@ -1,9 +1,6 @@
-# Write your solution here
-# Note, that at this time the main program should not be written inside
-# if __name__ == "__main__":
-# block!
+# is the word can be read from both side
 def palindromes(word: str):
-    return word == word[::-1]
+    return word == word[::-1] #to revers the word
 
 while True:
     idk=input("Please type in a palindrome: ")

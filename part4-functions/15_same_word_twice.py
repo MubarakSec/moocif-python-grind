@@ -1,4 +1,4 @@
-# Write your solution here
+# add and not repeat
 my_list=[]
 while True:
     word=input("Word: ")

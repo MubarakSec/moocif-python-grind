@@ -1,5 +1,4 @@
-# Write your solution here
-# You can test your function by calling it within the following block
+# range of the list 
 def range_of_list(x):
     return max(x) - min(x)
 if __name__ == "__main__":

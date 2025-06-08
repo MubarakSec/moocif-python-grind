@@ -1,4 +1,4 @@
-# Write your solution here
+# Print uniqe list without repeating
 def distinct_numbers(a):
     return list(sorted(set(a)))
 

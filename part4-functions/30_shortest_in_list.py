@@ -1,4 +1,4 @@
-# Write your solution here
+# The Shortest string in the list
 def shortest(my_list):
     return min(my_list, key=len) if my_list else ""
 if __name__ == "__main__":

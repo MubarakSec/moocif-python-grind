@@ -1,4 +1,4 @@
-# Write your solution here
+# they did it for testing TMC only
 while True:
     editor=input("what editor you use: ")
     if "visual studio code" == editor.lower():

@@ -1,5 +1,4 @@
-# Write your solution here
-# Write your solution here
+# gives all the longest strings in the list
 def all_the_longest(my_list):
     if not my_list:
         return []

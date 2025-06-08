@@ -1,5 +1,4 @@
-# Write your solution here
-# You can test your function by calling it within the following block
+# return the greatest number
 def greatest_number(x,y,z):
     return max(x,y,z)
 

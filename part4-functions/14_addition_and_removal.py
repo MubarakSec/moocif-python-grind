@@ -1,4 +1,4 @@
-# Write your solution here
+# add and remove from a list
 my_list = []
 while True:
     print("The list is now",my_list)

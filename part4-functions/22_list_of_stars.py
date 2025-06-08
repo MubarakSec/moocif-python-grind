@@ -1,4 +1,4 @@
-# Write your solution here
+# for each number in the list represented by a star
 def list_of_stars(num :list):
     for i in num:
         print("*"*i)

@@ -1,5 +1,4 @@
-# Write your solution here
-# You can test your function by calling it within the following block
+# same charachters or not
 def same_chars(string, x, y):
     try:
         return string[x] == string[y]
