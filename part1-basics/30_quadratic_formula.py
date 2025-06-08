@@ -16,4 +16,4 @@ c=int(input("value of c:"))
 postivex = (-b + sqrt((b*b)-(4*a*c)))/(2*a)
 negtivex = (-b - sqrt((b*b)-(4*a*c)))/(2*a)
 
-print(f"The roots are {postivex} and {negtivex}")
+print(f"The roots are {postivex} and {negtivex}") #This give the two roots

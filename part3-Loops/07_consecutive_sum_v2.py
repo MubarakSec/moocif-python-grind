@@ -1,15 +1,13 @@
 # Gives more info how it is done
-number=int(input("LIMIT:"))
+limit = int(input("LIMIT: "))
 total = 0
-sum=1
-final = f"The consecutive sum:"
-while total < number:
-    total += sum
-    final += f" {sum} "
-    if total < number:
-        final += f"+ "
-    else:
-        final += f"= {total}"
-    sum +=1
+current = 1
+parts = []
 
-print(final)
+while total < limit:
+    total += current
+    parts.append(str(current))
+    current += 1
+
+expression = " + ".join(parts) + f" = {total}"
+print("The consecutive sum:", expression)
